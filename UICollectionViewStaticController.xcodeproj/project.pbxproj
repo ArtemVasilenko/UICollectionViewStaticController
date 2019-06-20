@@ -13,6 +13,7 @@
 		AC58BCF722BBE93600E0DAEC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC58BCF522BBE93600E0DAEC /* Main.storyboard */; };
 		AC58BCF922BBE93800E0DAEC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC58BCF822BBE93800E0DAEC /* Assets.xcassets */; };
 		AC58BCFC22BBE93800E0DAEC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC58BCFA22BBE93800E0DAEC /* LaunchScreen.storyboard */; };
+		AC58BD0422BBEBCA00E0DAEC /* MyCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC58BD0322BBEBCA00E0DAEC /* MyCollectionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AC58BCF822BBE93800E0DAEC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AC58BCFB22BBE93800E0DAEC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AC58BCFD22BBE93800E0DAEC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AC58BD0322BBEBCA00E0DAEC /* MyCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCollectionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				AC58BCF122BBE93600E0DAEC /* SceneDelegate.swift */,
 				AC58BCF322BBE93600E0DAEC /* ViewController.swift */,
 				AC58BCF522BBE93600E0DAEC /* Main.storyboard */,
+				AC58BD0322BBEBCA00E0DAEC /* MyCollectionViewController.swift */,
 				AC58BCF822BBE93800E0DAEC /* Assets.xcassets */,
 				AC58BCFA22BBE93800E0DAEC /* LaunchScreen.storyboard */,
 				AC58BCFD22BBE93800E0DAEC /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AC58BD0422BBEBCA00E0DAEC /* MyCollectionViewController.swift in Sources */,
 				AC58BCF422BBE93600E0DAEC /* ViewController.swift in Sources */,
 				AC58BCF022BBE93600E0DAEC /* AppDelegate.swift in Sources */,
 				AC58BCF222BBE93600E0DAEC /* SceneDelegate.swift in Sources */,
